@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&display=swap');
+
 body {
     background-color: teal;
 }
 
 * {
     box-sizing: border-box;
+    font-family: 'PT Sans', sans-serif;
 }
 
 .container {
@@ -14,7 +17,7 @@ body {
     box-shadow: 20px 20px 20px 0px rgba(0, 0, 0, 0.7);
 }
 
-input, select{
+input[type='text'], input[type='password'], input[type='number'], input[type='email'], select{
     width: 100%;
     padding: 15px;
     margin: 5px 0px 22px 0px;
@@ -26,6 +29,11 @@ input, select{
 input:focus, select:focus {
     background-color: #ddd;
     outline: none;
+}
+
+#terms {
+    border: 2px solid black;
+
 }
 
 button {

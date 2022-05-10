@@ -1,3 +1,17 @@
+My assignment to workshop #1
+
+I wad practicing git Conventional Commits, html, css
+
+Follow along a youtube video recommendation from juno journey:
+https://www.youtube.com/watch?v=6xHjLjreSzM
+
+
+ask mentors:
+1) how to unselect checkmark from input.
+2) git Conventional Commits ask for examples.
+
+
+
 # Welcome to Workshop 1
 ## Registration form
 ### The goal of this workshop to practice html & css skills. 
@@ -11,12 +25,12 @@ The form should includes: <br />
 **Age** - valid number from 8 to 120<br />
 **Email** - only valid email is accepter<br />
 **Gender** - dropdown with single choice (male, female, other, refuse to state)<br />
-**Accepter terms & condition**  - checkbox<br />
+**Accept the terms & conditions**  - checkbox<br />
 **Submit button** - submitting the form if it's valid<br />
 
 If input is invalid user should see proper message highlighting which field is invalid.<br />
 Don't forget about round corners of background white card and background in general<br />
 
-In general - don't be bounded by given design. You can improvise and make it deligtfull (hint hint: animations)
+In general - don't be bounded by given design. You can improvise and make it delightful (hint hint: animations)
 
 **By end of workshop we will chose the best ones and present them at front of the class**
