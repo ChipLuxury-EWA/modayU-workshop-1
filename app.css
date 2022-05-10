@@ -1,1 +1,44 @@
+body {
+    background-color: teal;
+}
 
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    padding: 16px;
+    background-color: white;
+    box-shadow: 20px 20px 20px 0px rgba(0, 0, 0, 0.7);
+}
+
+input, select{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0px 22px 0px;
+    display: inline-block;
+    border: none;
+    background: whitesmoke;
+}
+
+input:focus, select:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+button {
+    background-color: teal;
+    color: white;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin: auto;
+    opacity: 0.8;
+}
+
+button:hover {
+    opacity: 1;
+}
