@@ -1,4 +1,7 @@
 My assignment to workshop #1
+You can be amazed from the site live on github pages:
+https://chipluxury-ewa.github.io/modayU-workshop-1/
+
 
 I wad practicing git Conventional Commits, html, css
 
